@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pro.css">
+    <title>MOHAMMAD KAIF-Portfolio</title>
+</head>
+<body background="image.jpg">   
+	<header>
+    <h1>SHAIK PODILE MOHAMMAD KAIF</h1>
+    <p>Welcome to My Portfolio</p>
+        <nav>
+  
+<ul class="nav-links">
+                <li><u><a href="#about">About me</a></u></li>
+                <li><u><a href="#workshops">Workshops</a></u></li>
+				<li><u><a href="#skills">Skills</a></u></li>
+                <li><u><a href="#contact">Contact</a></u></li>
+            </ul>
+            
+        </nav>
+    </header>
+    <section id="about">
+        <h3><u>About me:</u></h3><br>
+        <p style="font-size: larger">&#8594 Completed SSC from St Joseph's High School,Narasaraopet in 2018 with 90%</p>
+        <p style="font-size: larger">&#8594 Completed Intermediate from Sri Chaitanya Junior College, Narasaraopet in 2020 with 87% </p>
+        <p style="font-size: larger">&#8594 Pursing Professional Course in the field "Electronics and Communication Engineering",<br>from DVR&Dr.HS MIC COLLEGE OF TECHNOLOGY</p>
+    </section>
+    <section id="workshops">
+	    <h2><u>Workshops:</u></h2><br>
+        <div class="Workshops">
+            <li>Python,APSSDC</li><br>
+            <li>Java,APSSDC</li>
+        </div>
+    </section>
+	<section id="Skills">
+	    <h2><u>Skills:</u></h2><br>
+		<div class="Skills">
+		    <li>Html</li><br>
+			<li>Python</li><br>
+			<li>Java</li><br>
+          <li>Prompt Engineering</li><br>
+          <li>Ms Excel</li><br>
+		</div>
+	</section>
+    <section id="contact">
+        <h2><u>Contact:</u></h2>
+        <p>Email: shaikmohammadkaif73@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/anjanee-devi-gundala-80a690261">linkedin.com/in/Mohammad Kaif</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Mohammad Kaif. All rights reserved.</p>
+    </footer>
+</body>
+</html>
